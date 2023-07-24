@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    margin: 0 auto;
+    background-color: Lavender;
+}
